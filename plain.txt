@@ -1,1 +1,1 @@
-This is lain text file
+This is plain text file
